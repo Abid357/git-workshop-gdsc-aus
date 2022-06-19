@@ -7,6 +7,8 @@ movie_phrases.append("why not you stupid bastard?")
 movie_phrases.append("harry, you're a wizard!")
 movie_phrases.append("hello there!")
 movie_phrases.append("i'm something of a scientist myself")
+movie_phrases.append("look at the flowers")
+movie_phrases.append("i'm something of a scientist myself")
 
 # display the list of phrases
 print(movie_phrases)
