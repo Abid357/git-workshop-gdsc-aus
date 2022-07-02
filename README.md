@@ -16,8 +16,8 @@ sessions were held virtually. I will link the slides and the event page for each
 [![Slides](https://img.shields.io/badge/Slides-ffffff?logo=googlesheets&logoColor=f5b911)](https://docs.google.com/presentation/d/1LeIcUPW1pedxkuW8UL7x-bnBT-VF7-vlFXn2PbvaVQo/edit?usp=sharing)
 [![Event](https://img.shields.io/badge/Event-ffffff?logo=googlecalendar&logoColor=blue)](https://gdsc.community.dev/events/details/developer-student-clubs-american-university-of-sharjah-presents-git-workshop-session-1/)
 
-There were 35+ participants which was great to be honest. The very first session was all about version control systems (
-VCS), specifically Git. Comparing a VCS to an ordinary
+There were 35+ participants which was great to be honest. The very first session was all about version control systems (VCS),
+specifically Git. Comparing a VCS to an ordinary
 cloud storage like Dropbox helped understand how files are tracked by changes in Git. We also explored commits and
 branches.
 
