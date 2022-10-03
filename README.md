@@ -13,6 +13,7 @@ sessions were held virtually. I will link the slides and the event page for each
 
 ## Session 1
 
+[![Video](https://img.shields.io/youtube/views/NU-lO5i7gik?label=Video)](https://www.youtube.com/watch?v=NU-lO5i7gik&list=PLdPDdGyfAAjynIHECDAj8Z8pa4yG9Sw6F&index=1)
 [![Slides](https://img.shields.io/badge/Slides-ffffff?logo=googlesheets&logoColor=f5b911)](https://docs.google.com/presentation/d/1LeIcUPW1pedxkuW8UL7x-bnBT-VF7-vlFXn2PbvaVQo/edit?usp=sharing)
 [![Event](https://img.shields.io/badge/Event-ffffff?logo=googlecalendar&logoColor=blue)](https://gdsc.community.dev/events/details/developer-student-clubs-american-university-of-sharjah-presents-git-workshop-session-1/)
 
@@ -35,6 +36,7 @@ git checkout <branchname>
 
 ## Session 2
 
+[![Video](https://img.shields.io/youtube/views/jTOHTiBvtSE?label=Video)](https://www.youtube.com/watch?v=jTOHTiBvtSE&list=PLdPDdGyfAAjynIHECDAj8Z8pa4yG9Sw6F&index=2&ab_channel=GDSCAUS)
 [![Slides](https://img.shields.io/badge/Slides-ffffff?logo=googlesheets&logoColor=f5b911)](https://docs.google.com/presentation/d/1Vs3J9P8hiIxBxBkQXIUBTYYKb9EjTfzPrE3Jty-7EkU/edit?usp=sharing)
 [![Event](https://img.shields.io/badge/Event-ffffff?logo=googlecalendar&logoColor=blue)](https://gdsc.community.dev/events/details/developer-student-clubs-american-university-of-sharjah-presents-git-workshop-session-2/)
 
@@ -56,6 +58,7 @@ git clone <url>
 
 ## Session 3
 
+[![Video](https://img.shields.io/youtube/views/FlsQNs3As7c?label=Video)](https://www.youtube.com/watch?v=FlsQNs3As7c&list=PLdPDdGyfAAjynIHECDAj8Z8pa4yG9Sw6F&index=5&ab_channel=GDSCAUS)
 [![Slides](https://img.shields.io/badge/Slides-ffffff?logo=googlesheets&logoColor=f5b911)](https://docs.google.com/presentation/d/1Cv0AfNwhXf2k0TAAUYiHZVHnLiIc_WkurSFI05Quatw/edit?usp=sharing)
 [![Event](https://img.shields.io/badge/Event-ffffff?logo=googlecalendar&logoColor=blue)](https://gdsc.community.dev/events/details/developer-student-clubs-american-university-of-sharjah-presents-git-workshop-session-3/)
 
@@ -76,6 +79,7 @@ git mergetool
 
 ## Session 4
 
+[![Video](https://img.shields.io/youtube/views/zrFrQiLvSUs?label=Video)](https://www.youtube.com/watch?v=zrFrQiLvSUs&list=PLdPDdGyfAAjynIHECDAj8Z8pa4yG9Sw6F&index=4&ab_channel=GDSCAUS)
 [![Slides](https://img.shields.io/badge/Slides-ffffff?logo=googlesheets&logoColor=f5b911)](https://docs.google.com/presentation/d/17Ry12RWKKfECQ-3qWt3sJEllumw69-lPtiFYjBA82ck/edit?usp=sharing)
 [![Event](https://img.shields.io/badge/Event-ffffff?logo=googlecalendar&logoColor=blue)](https://gdsc.community.dev/events/details/developer-student-clubs-american-university-of-sharjah-presents-git-workshop-session-4/)
 
